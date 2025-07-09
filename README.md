@@ -1,5 +1,5 @@
 # EPA-Net
-# author Xgl
+# author Xgl and Whl
 
 
 # traing
@@ -8,3 +8,7 @@
 
 # test
 *训练代码*
+
+
+# dataset
+**这里补充数据集信息**
